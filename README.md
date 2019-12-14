@@ -20,4 +20,4 @@ The model of the final Kuka arm modified by adding a cylindrical extension using
 ## Trajectories Used
 We generated a line segment trajectory for the Kuka to follow along the z-axis and y-axis as the figures below show:
 
-<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_z.png" width=30% height=30%> <img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_y.png" width=30% height=30%>
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_z.png" width=30% height=30%>              <img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_y.png" width=30% height=30%>

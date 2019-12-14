@@ -6,3 +6,7 @@ The goal of this project is to develop a robot system that assists stroke patien
 ## Final Human Arm Model
 The model of the final human arm created using Blender and spawned in AMBF is shown below:
 <img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/Human_arm_final.png" width=30% height=30%>
+
+## Final Kuka Arm Model
+The model of the final Kuka arm modified by adding a cylindrical extension using Blender and spawned in AMBF is shown below:
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_model.png" width=30% height=30%>

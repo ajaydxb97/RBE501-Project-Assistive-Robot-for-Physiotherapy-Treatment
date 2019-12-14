@@ -16,3 +16,9 @@ The model of the final human arm created using Blender and spawned in AMBF is sh
 The model of the final Kuka arm modified by adding a cylindrical extension using Blender and spawned in AMBF is shown below:
 
 <img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_model.png" width=20% height=20%>
+
+## Trajectories Used
+We generated a line segment trajectory for the Kuka to follow along the z-axis and y-axis as the figures below show:
+
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_z.png" width=30% height=30%>
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_y.png" width=30% height=30%>

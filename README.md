@@ -47,4 +47,4 @@ We faced many issues when we tried to attach the human arm to the Kuka. A relati
 <img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/Gripper_attachment.png" width=20% height=20%>
 
 ## Acknowledgment
-We thank Professor Gregory S. Fischer for his advice and members of the WPI AIM lab for their support without which we would not have been able to complete this project. Special thanks to Adnan Munawar as well for helping us out.
+We thank Professor Gregory S. Fischer for his advice and members of the WPI AIM lab for their support without which we would not have been able to complete this project. Special thanks to Adnan Munawar as well for helping us out with AMBF.

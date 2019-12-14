@@ -37,7 +37,7 @@ We generated a line segment trajectory for the Kuka to follow along the z-axis a
 
 ## Inverse Dynamics Control of the Kuka Arm
 We implemented task space inverse dynamics control of the Kuka arm using the following flow.
-<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_control.png" width=50% height=50%>
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/kuka_control.png" width=65% height=65%>
 
 ## Future Work
 We faced many issues when we tried to attach the human arm to the Kuka. A relativly unstable combination of the two was achieved but no trajectory traversal could be performed using it. We tried changing the collision parameters, mesh type etc. but didn't overcome the problems. This is an opportunity for future work and whoever wants to continue this project.

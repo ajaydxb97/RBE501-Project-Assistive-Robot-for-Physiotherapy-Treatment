@@ -6,7 +6,7 @@ The goal of this project is to develop a robot system that assists stroke patien
 ## Experiment of Applying Disturbances to Kuka Moving Along a Trajectory
 In this experiment the Kuka arm moves across the desired trajectory of a line segment along the y-axis. We apply disturbances to the arm using the mouse. As we can see the Kuka continues to move along the desired trajectory despite experiencing diverting forces. A human arm model should have been performing the application of diverting forces, but we were facing a lot of complicated issues when we tried attaching the human arm to the Kuka. As a result, we decided to work on it at a later time as part of future work.
 
-<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/y-axis_test.gif" width=30% height=30%>
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/y-axis_test.gif" class="center" width=50% height=50%>
 
 ## Final Human Arm Model
 The model of the final human arm created using Blender and spawned in AMBF is shown below:

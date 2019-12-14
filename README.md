@@ -5,4 +5,4 @@ The goal of this project is to develop a robot system that assists stroke patien
 
 ## Final Human Arm Model
 The model of the final human arm created using Blender and spawned in AMBF is shown below:
-![alt text](https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/Human_arm_final.png){:height="50%" width="50%"}
+<img src="https://github.com/ajaydxb97/RBE501-Project-Assistive-Robot-for-Physiotherapy-Treatment/blob/master/Images/Human_arm_final.png" width="400" height="790">
